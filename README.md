@@ -1,0 +1,1 @@
+Further documentation and code examples are provided here: https://kibook.github.io/redm-uiprompt
